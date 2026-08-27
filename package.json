@@ -1,0 +1,25 @@
+{
+  "dependencies": {
+    "express": "^5.2.1"
+  },
+  "name": "atividadesbackend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LuizBottoli/AtividadesBackend.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/LuizBottoli/AtividadesBackend/issues"
+  },
+  "homepage": "https://github.com/LuizBottoli/AtividadesBackend#readme"
+}
