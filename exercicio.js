@@ -27,3 +27,7 @@ if (usuarioEncontrado) {
 } else {
   console.log("Não há desenvolvedores com mais de 30 anos.");
 }
+
+
+const posicaousuarioEncontrado = usuarios.findIndex(usuario => usuario.profissao === "Desenvolvedor" && usuario.idade > 30);
+console.log("Posição do usuário encontrado:", posicaousuarioEncontrado);
