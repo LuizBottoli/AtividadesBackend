@@ -122,7 +122,7 @@ app.patch("/livros/:id/devolver", (req, res) => {
 
   livro.fgDisponivel = true;
 
-  res.status(200).json(livro);// depois de todas a validacoes dai ele da 200 quer dizer que deu certo
+  res.status(200).json(livro);// depois de todas a validacoes dai ele da 200,deu boa
 });
 
 
